@@ -10,7 +10,7 @@ replace (
 require (
 	github.com/AsynkronIT/goconsole v0.0.0-20160504192649-bfa12eebf716 // indirect
 	github.com/AsynkronIT/gonet v0.0.0-20161127091928-0553637be225
-	github.com/Workiva/go-datastructures v1.0.52
+	github.com/Workiva/go-datastructures v1.0.53
 	github.com/armon/go-metrics v0.3.0 // indirect
 	github.com/cespare/xxhash v1.1.0
 	github.com/chzyer/logex v1.1.10 // indirect
@@ -45,9 +45,8 @@ require (
 	github.com/uber/jaeger-lib v2.4.0+incompatible // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
-	golang.org/x/crypto v0.0.0-20191117063200-497ca9f6d64f // indirect
-	golang.org/x/net v0.0.0-20191116160921-f9c825593386
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	google.golang.org/grpc v1.36.0
 	gopkg.in/couchbase/gocbcore.v7 v7.1.18 // indirect
 	gopkg.in/couchbaselabs/gocbconnstr.v1 v1.0.4 // indirect
